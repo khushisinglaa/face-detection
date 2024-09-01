@@ -3,6 +3,7 @@ This project demonstrates face detection in both images and videos using the Haa
 
 # Overview
   ~ Objective: To accurately detect human faces in images and videos using computer vision techniques and highlight them with bounding boxes.
+ 
   ~ Tools Used: OpenCV for image processing and face detection, Google Colab for running the code, and IPython display functions for video playback.
 
 # Features
